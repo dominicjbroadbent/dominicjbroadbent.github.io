@@ -11,6 +11,8 @@ main:
   - title: "Publications"
     url: /publications.html
   - title: "Personal Projects"
-    url: /projects.html
+    url: /personal_projects.html
+  - title: "Research Projects"
+    url: /research_projects.html
   - title: "CV"
     url: /cv.html
