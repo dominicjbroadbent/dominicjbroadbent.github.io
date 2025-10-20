@@ -13,10 +13,12 @@ redirect_from:
 **Conditional Distribution Compression via the Kernel Conditional Mean Embedding**  
 Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett  
 *NeurIPS 2025.*  
-[arXiv](https://arxiv.org/abs/2504.10139)
+[arXiv](https://arxiv.org/abs/2504.10139), 
+[poster](/files/conditional_compression_poster.pdf),
+[slides](/files/conditional_compression_slides.pdf),
 
 
 **Bilateral Distribution Compression: Reducing Both Data Size and Dimensionality**  
 Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett  
 *Submitted to ICLR 2025.*  
-[arXiv](https://arxiv.org/abs/2509.17543)
+[arXiv](https://arxiv.org/abs/2509.17543), [poster](/files/bilateral_compression_poster.pdf),
