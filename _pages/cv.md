@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
   - /cv.html
