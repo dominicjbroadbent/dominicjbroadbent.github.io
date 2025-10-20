@@ -26,19 +26,19 @@ redirect_from:
 
 **PhD, Computational Statistics and Data Science, Compass CDT, University of Bristol, School of Mathematics. (2021 - 2026)**
 
-- 1st year MRes in statistical methods and computing (85% average), 
+- 1st year MRes in statistical methods and computing (85% average).
 - Co-organiser for the 1st and 2nd annual Compass conference.
 
 **MMath, Mathematics with Statistics at the University of Nottingham, School of Mathematical sciences (2017 - 2021)**
 
-- First class honours (86% average),
-- Nottingham School of Mathematics Achievement Prize (2018, 2019, 2021),
-- Nottingham School of Mathematics Poster Prize (2020),
+- First class honours (86% average).
+- Nottingham School of Mathematics Achievement Prize (2018, 2019, 2021).
+- Nottingham School of Mathematics Poster Prize (2020).
 - Peer Assisted Study Support (PASS) Leader (2018 - 2021), organising study support sessions for first year students.
 
 **The Brooksbank School (2013-2017)**
-- A Level Mathematics (A\*), Physics (A\*), Chemistry (A\*), Extended Project (A\*), AS Level Further Mathematics (A), Biology (A)
-- 10 GCSEs, 9A\*s, 1 A
+- A Level Mathematics (A\*), Physics (A\*), Chemistry (A\*), Extended Project (A\*), AS Level Further Mathematics (A), Biology (A).
+- 10 GCSEs, 9A\*s, 1 A.
 
 ## Technical Skills
 - Tools: Proficient in Python and R, with extensive experience using Linux, Bash, and Git for development. Familiar with SLURM for high-performance computing and AWS for cloud-based GPU workloads.
