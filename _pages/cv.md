@@ -37,7 +37,7 @@ redirect_from:
 - Peer Assisted Study Support (PASS) Leader (2018 - 2021), organising study support sessions for first year students.
 
 **The Brooksbank School (2013-2017)**
-- A Level Mathematics (A\*), Physics (A\*), Chemistry (A\*), Extended Project (A\*) • AS Level Further Mathematics (A), Biology (A)
+- A Level Mathematics (A\*), Physics (A\*), Chemistry (A\*), Extended Project (A\*), AS Level Further Mathematics (A), Biology (A)
 - 10 GCSEs, 9A\*s, 1 A
 
 *For personal projects, publications and additional research projects see the buttons at the top of the site.*
