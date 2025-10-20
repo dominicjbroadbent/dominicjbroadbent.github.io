@@ -13,7 +13,7 @@ redirect_from:
 
 **Machine Learning Researcher, Civil Service (Mar 2024 - Oct 2025)**
 - Suspended my PhD studies for a placement in the civil service via the Alan Turing Institute.
-- Researched and [implemented](https://github.com/gchq/coreax) machine learning methods for data compression using JAX.
+- Researched and implemented machine learning methods for data compression using JAX.
 - Collaborated within an Agile development team, running GPU workloads on AWS instances accessed via SSH.
 
 **Data Quality Analyst, [Beauhurst](https://www.beauhurst.com/) (Temp, Jun 2019 - present)**
