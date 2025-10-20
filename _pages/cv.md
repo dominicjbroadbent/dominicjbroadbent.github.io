@@ -36,4 +36,4 @@ redirect_from:
 - Nottingham School of Mathematics Poster Prize (2020),
 - Peer Assisted Study Support (PASS) Leader (2018 - 2021).
 
-*For personal projects see , for publications see , and for additional research projects see .*
+*For personal projects see [link](/publications/), for publications see , and for additional research projects see .*
