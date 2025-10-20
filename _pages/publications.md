@@ -27,4 +27,13 @@ In this work we extend the concept of distribution compression, where one summar
 **Bilateral Distribution Compression: Reducing Both Data Size and Dimensionality**  
 Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett  
 *Submitted to ICLR 2025.*  
+
+{% include figure image_path="/images/bilateral_compression_picture_one.png" alt="The Bilateral Distribution Compression (BDC) framework." caption="The Bilateral Distribution Compression (BDC) framework."  %}
+
+{% include figure image_path="/images/bilateral_compression_picture_two.png" alt="Image showing compressed set versus random subset." caption="Original intrinsic data before projection, next to
+a compressed set constructed by BDC-NL. The encoder recovers the intrinsic space and the compressed set clearly delineates the clusters, ignoring noise."  %}
+
+In this work we extend the concept of distribution compression, where one summarises a large target dataset with a much smaller compressed set, to joint and conditional distributions. 
+
+
 [arXiv](https://arxiv.org/abs/2509.17543), [poster](/files/bilateral_compression_poster.pdf).
