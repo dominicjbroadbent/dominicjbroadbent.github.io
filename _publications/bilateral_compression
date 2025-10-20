@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/bilateral_compression
 excerpt: 'We extend the concept of distribution compression to to compress a target dataset in both size and dimension simultaneously. Submitted to ICLR 2025.'
-date: #
-venue: #
+date: 2025-09-18
+venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems, San Diego Convention Center'
 slidesurl: #
 paperurl: 'https://arxiv.org/abs/2509.17543'
 bibtexurl: 'https://dominicjbroadbent.github.io/files/bilateral_compression.bib'
