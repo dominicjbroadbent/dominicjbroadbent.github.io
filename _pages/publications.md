@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**Conditional Distribution Compression via the Kernel Conditional Mean Embedding**  
+## Conditional Distribution Compression via the Kernel Conditional Mean Embedding
 Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett  
 *NeurIPS 2025.*  
 In this work we extend the concept of distribution compression, where one summarises a large target dataset with a much smaller compressed set, to joint and conditional distributions. 
@@ -28,9 +28,7 @@ In this work we extend the concept of distribution compression, where one summar
 </figure>
 
 
-
-
-**Bilateral Distribution Compression: Reducing Both Data Size and Dimensionality**  
+##Bilateral Distribution Compression: Reducing Both Data Size and Dimensionality
 Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett  
 *Submitted to ICLR 2025.*  
 In this work we extend the concept of distribution compression, where one summarises a large target dataset with a much smaller compressed set, to joint and conditional distributions. 
