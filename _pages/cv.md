@@ -24,7 +24,7 @@ redirect_from:
 
 ## Education
 
-**PhD Computational Statistics and Data Science, Compass CDT, University of Bristol, School of Mathematics. (2021 - 2026)**
+**PhD, Computational Statistics and Data Science, Compass CDT, University of Bristol, School of Mathematics. (2021 - 2026)**
 
 - 1st year MRes in statistical methods and computing (85% average), 
 - Co-organiser for the 1st and 2nd annual Compass conference.
