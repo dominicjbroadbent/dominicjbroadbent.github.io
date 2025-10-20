@@ -1,0 +1,12 @@
+---
+title: "Bilateral Distribution Compression: Reducing Both Data Size and Dimensionality"
+collection: publications
+category: manuscripts
+permalink: /publication/bilateral_compression
+excerpt: 'We extend the concept of distribution compression to to compress a target dataset in both size and dimension simultaneously.'
+date: #
+venue: #
+slidesurl: #
+paperurl: 'https://arxiv.org/abs/2509.17543'
+bibtexurl: 'https://academicpages.github.io/files/bilateral_compression.bib'
+---
