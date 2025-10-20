@@ -40,4 +40,4 @@ redirect_from:
 - A Level Mathematics (A\*), Physics (A\*), Chemistry (A\*), Extended Project (A\*), AS Level Further Mathematics (A), Biology (A)
 - 10 GCSEs, 9A\*s, 1 A
 
-*For personal projects, publications and additional research projects see the buttons at the top of the site.*
+*For publications, personal projects and additional research projects see the top of the site.*
