@@ -69,7 +69,7 @@ In this work, we further extend the concept of distribution compression, where o
        alt="Results on classification task." 
        style="max-width:100%; height:auto;">
   <figcaption>
-    <em>OResults on MNIST after significant compression, our BDC approaches outperform existing algorithms despite compressing the data more, and in a faster time.</em>
+    <em>Results on MNIST after significant compression, our BDC approaches outperform existing algorithms despite compressing the data more, and in a faster time.</em>
   </figcaption>
 </figure>
 
