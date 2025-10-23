@@ -41,7 +41,7 @@ redirect_from:
 - 10 GCSEs, 9A\*s, 1 A.
 
 ## Technical Skills
-- Tools: Proficient in Python and R, with extensive experience using Linux, Bash, and Git for development. Familiar with SLURM for high-performance computing and AWS for cloud-based GPU workloads.
+- Tools: Proficient in Python and R, with extensive experience using Linux, Bash, and Git for development. Experience with unit testing via pytest for robust code development. Familiar with SLURM for high-performance computing and AWS for cloud-based GPU workloads.
 - Packages: Experienced with the Python and R scientific ecosystems, including NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, PyTorch, JAX, NumPyro, Jupyter, R Markdown, Tidyverse, and ggplot2.
   
 *For publications, personal projects and additional research projects see the top of the site.*
