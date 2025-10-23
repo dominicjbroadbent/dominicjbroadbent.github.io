@@ -27,6 +27,8 @@ During my time at [Beauhurst](https://www.beauhurst.com/), one of my regular tas
 ## Predicting film viewer ratings
 In this project I explored whether it is possible to predict a film’s IMDb viewer rating using only information available prior to wide release, such as the streaming platform, Rotten Tomatoes critic score, genre, and other metadata. I collected and cleaned data from IMDb’s title database, engineered relevant features, and implemented a fully reproducible environment. Exploratory analysis and predictive modelling were performed in Jupyter notebooks with pandas and scikit-learn. The project had two main motivations: first, as a data science exercise to practise feature engineering, model selection, and interpretability, and second, to investigate a personal interest of mine: how early film attributes might forecast audience sentiment. The results showed that while expected factors such as critic ratings and genre were strong predictors, less obvious features like the streaming platform also had a notable effect, with films released on Hulu showing a significant negative correlation with final viewer ratings. Overall, the project demonstrates my ability to design and execute an end-to-end data science workflow, from data acquisition to analysis and interpretation.
 
+[code](https://github.com/dominicjbroadbent/film_ratings)
+
 <figure>
   <img src="/images/genre.png" 
        alt="Effect of genre on film viewer ratings." 
