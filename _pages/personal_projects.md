@@ -29,9 +29,45 @@ In this project I explored whether it is possible to predict a film’s IMDb vie
 
 <figure>
   <img src="/images/genre.png" 
-       alt="Effect of genre on film viewer ratings.." 
+       alt="Effect of genre on film viewer ratings." 
        style="max-width:100%; height:auto;">
   <figcaption>
     <em>Distribution of IMDb user ratings by genre. Each violin–box plot shows the spread and density of ratings across films within that genre. \n indicates no genre provided. </em>
   </figcaption>
 </figure>
+
+
+## Implementing machine learning algorithms
+During my PhD in computational statistics and data science, I often reimplemented algorithms from research papers. I have collected several of my favourite approaches in public repositories. For example, I wrote my own [implementation](https://github.com/dominicjbroadbent/kherd) of [Kernel Herding](https://arxiv.org/abs/1203.3472), one of the earliest and most intuitive methods for distribution compression. The algorithm iteratively optimises representative samples targeting a dataset, revealing which regions of the data space are most influential in capturing the overall distribution.
+
+<figure>
+  <img src="/images/kherd.png" 
+       alt="Points chosen by kernel herding." 
+       style="max-width:100%; height:auto;">
+  <figcaption>
+    <em>Illustration of the kernel herding process on a Gaussian mixture model. The red points represent the initial samples, the yellow crosses denote the selected “super samples” produced by the herding algorithm, and the orange crosses indicate the generating component means. The super samples effectively summarise the underlying distribution, capturing its key modes while substantially reducing the number of required data points. </em>
+  </figcaption>
+</figure>
+
+Additional projects include a [conditional density estimator](https://github.com/dominicjbroadbent/SpectralCDE), a [kernel density estimator for univariate data](https://github.com/dominicjbroadbent/kde), a [local regression model](https://github.com/dominicjbroadbent/loess) and a [Gaussian Process classifier](https://github.com/Tennessee-Wallaceh/gproc).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
