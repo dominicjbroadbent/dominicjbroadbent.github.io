@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dominic Broadbent - Data Scientist & ML Researcher"
+title: Data Scientist & ML Researcher
 author_profile: true
 redirect_from: 
   - /about/
