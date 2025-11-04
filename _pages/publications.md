@@ -17,6 +17,7 @@ Dominic Broadbent, Nick Whiteley, Robert Allison, Tom Lovett
 In this work, we extend the concept of distribution compression, which summarises a large dataset using a much smaller, representative subset, to the labelled setting. Specifically, we generalise existing methods from acting on marginal distributions to operating on joint and conditional distributions, enabling a broad range of downstream tasks such as classification and regression.
 [arXiv](https://arxiv.org/abs/2504.10139), 
 [poster](/files/conditional_compression_poster.pdf),
+[presentation](https://recorder-v3.slideslive.com/#/share?share=104112&s=945e3425-92f8-4c0f-a574-9ec4a41417ee),
 [slides](/files/conditional_compression_slides.pdf).
 
 <figure>
