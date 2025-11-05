@@ -40,7 +40,7 @@ In this project I explored whether it is possible to predict a film’s IMDb vie
 
 
 ## Implementing machine learning algorithms
-During my PhD in computational statistics and data science, I often reimplemented algorithms from research papers. I have collected several of my favourite approaches in public repositories. For example, I wrote my own [implementation](https://github.com/dominicjbroadbent/kherd) of [Kernel Herding](https://arxiv.org/abs/1203.3472), one of the earliest and most intuitive methods for distribution compression. The algorithm iteratively optimises representative samples targeting a dataset, revealing which regions of the data space are most influential in capturing the overall distribution.
+During my PhD in computational statistics and data science, I often reimplemented algorithms from research papers in order to further my understanding. I have collected several of my favourite approaches in public repositories. For example, I wrote my own [implementation](https://github.com/dominicjbroadbent/kherd) of [Kernel Herding](https://arxiv.org/abs/1203.3472), one of the earliest and most intuitive methods for distribution compression. The algorithm iteratively optimises representative samples targeting a dataset, revealing which regions of the data space are most influential in capturing the overall distribution.
 
 <figure>
   <img src="/images/kherd.png" 
